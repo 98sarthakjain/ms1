@@ -18,6 +18,7 @@ const particlesOptions = {
     }
   }
 }
+
 const initialState={
   input:'',
       route:'Signin',
@@ -97,5 +98,6 @@ loadUser=(data)=>{
 
 }
 
+//app
 
 export default App;
