@@ -42,12 +42,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/98sarthakjain/ms1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/s"
+    "url": "https://github.com/98sarthakjain/ms1/issues"
   },
-  "homepage": "https://github.com/"
+  "homepage": "https://github.com/98sarthakjain/ms1#readme"
 }
