@@ -37,17 +37,17 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/98sarthakjain/ms1.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/98sarthakjain/ms1/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/98sarthakjain/ms1#readme"
+  "homepage": ""
 }
